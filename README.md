@@ -64,8 +64,10 @@ rosrun my_robot my_subs
 - After that, you may give the navigation goal command at RVIZ to move the robot to a desired position. According to the motion of the robot, you may check in the terminal 3 the sensor laser measurement printed with the progress bar.
 
 Ps-1.: - In the virtual machine I have found sometimes an error when open gazebo. I believe that is because it is missing a GPU or some graphics configuration. In that case of fail in opening gazebo, I closed and reopened the Desktop GUI and retyped the commands above, and it works correctly.
+
 Ps-2.: Since this is a ROS project It is necessary when open each terminal to type:
 cd /home/workspace/catkin_ws
 source devel/setup.bash
+
 Ps-3.: I am not mention the step by step to install and configure ROS, since this is not the focus of this project. More information can be found at:
 http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment
