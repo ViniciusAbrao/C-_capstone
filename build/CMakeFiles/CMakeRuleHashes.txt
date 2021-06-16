@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+57281773545c99ff513ab867ffa3526d /home/workspace/catkin_ws/devel/share/roseus/ros/my_robot/manifest.l
+81f58fc7d5e99683a537a8743880bc1b CMakeFiles/clean_test_results
+601496fb311f559e606b0a179efa4586 my_robot/CMakeFiles/my_robot_generate_messages_eus

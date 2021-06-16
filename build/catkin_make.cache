@@ -1,0 +1,2 @@
+add_markers:my_robot:pick_objects:teleop_twist_keyboard
+-DCATKIN_DEVEL_PREFIX=/home/workspace/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/workspace/catkin_ws/install -G Unix Makefiles
